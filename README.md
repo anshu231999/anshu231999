@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anshu231999
 - 👀 I’m interested in Competitive Programming , Web Development
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anshushandilyagaya@gmail.com
 - 📋 Check out my first React app https://coder-anshu-random-advice.netlify.app/
 - ❤️ I love things which needs observations .
